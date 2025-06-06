@@ -52,17 +52,17 @@
                           </Group>
                       </Group>
                       <Group type="102" attributes="0">
-                          <Component id="jButton3" max="32767" attributes="0"/>
-                          <EmptySpace max="-2" attributes="0"/>
-                      </Group>
-                      <Group type="102" attributes="0">
-                          <Group type="103" groupAlignment="0" attributes="0">
-                              <Component id="jButton1" min="-2" pref="217" max="-2" attributes="0"/>
-                              <Component id="jButton4" alignment="0" min="-2" max="-2" attributes="0"/>
-                          </Group>
+                          <Component id="jButton1" min="-2" pref="217" max="-2" attributes="0"/>
                           <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
                       </Group>
                       <Component id="jButton6" alignment="0" max="32767" attributes="0"/>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="jButton4" max="32767" attributes="0"/>
+                              <Component id="jButton3" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                      </Group>
                   </Group>
               </Group>
           </Group>
@@ -91,7 +91,7 @@
         <Component class="javax.swing.JLabel" name="jLabel2">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/Interface/reader-1713700-1453871.png"/>
+              <Image iconType="3" name="/Main/resources/images/reader-1713700-1453871.png"/>
             </Property>
           </Properties>
         </Component>
@@ -109,7 +109,7 @@
               <Font name="Segoe UI" size="18" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/Interface/aaa.jpg"/>
+              <Image iconType="3" name="/Main/resources/images/aaa.jpg"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Trang ch&#x1ee7;"/>
           </Properties>
@@ -123,7 +123,7 @@
               <Font name="Segoe UI" size="18" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/Interface/cccc.png"/>
+              <Image iconType="3" name="/Main/resources/images/cccc.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="L&#x1ecb;ch s&#x1eed; m&#x1b0;&#x1ee3;n s&#xe1;ch"/>
           </Properties>
@@ -137,7 +137,7 @@
               <Font name="Segoe UI" size="18" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/Interface/ddd.png"/>
+              <Image iconType="3" name="/Main/resources/images/ddd.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Qu&#x1ea3;n l&#xfd; th&#xf4;ng tin"/>
           </Properties>
@@ -151,7 +151,7 @@
               <Font name="Segoe UI" size="18" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/Admin/chuong.png"/>
+              <Image iconType="3" name="/Main/resources/images/chuong.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Th&#xf4;ng b&#xe1;o"/>
           </Properties>
@@ -341,7 +341,7 @@
     <Component class="javax.swing.JLabel" name="jLabel1">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/Main/Thiet-ke-khong-ten.jpg"/>
+          <Image iconType="3" name="/Main/resources/images/Thiet-ke-khong-ten.jpg"/>
         </Property>
       </Properties>
       <Constraints>

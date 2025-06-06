@@ -230,7 +230,7 @@ public class Borrowings extends javax.swing.JFrame {
 
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 60, 670, 450));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Main/Thiet-ke-khong-ten.jpg"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Main/resources/images/Thiet-ke-khong-ten.jpg"))); // NOI18N
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 777, -1));
 
         pack();

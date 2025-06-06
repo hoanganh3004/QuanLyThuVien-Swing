@@ -136,7 +136,7 @@ public class Login extends javax.swing.JFrame {
         jLabel6.setText("QUẢN LÝ THƯ VIỆN");
         getContentPane().add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 90, 480, 110));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Main/Thiet-ke-khong-ten.jpg"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Main/resources/images/Thiet-ke-khong-ten.jpg"))); // NOI18N
         jLabel1.setText("jLabel1");
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 780, 560));
 

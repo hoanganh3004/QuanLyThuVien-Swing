@@ -254,7 +254,7 @@ public class Chistiet extends javax.swing.JFrame {
 
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(80, 10, 590, 470));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Main/Thiet-ke-khong-ten.jpg"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Main/resources/images/Thiet-ke-khong-ten.jpg"))); // NOI18N
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 751, -1));
 
         pack();

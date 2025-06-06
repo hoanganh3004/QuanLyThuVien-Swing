@@ -86,7 +86,7 @@
         <Component class="javax.swing.JLabel" name="jLabel2">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/Interface/reader-1713700-1453871.png"/>
+              <Image iconType="3" name="/Main/resources/images/reader-1713700-1453871.png"/>
             </Property>
           </Properties>
         </Component>
@@ -104,7 +104,7 @@
               <Font name="Segoe UI" size="18" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/Interface/aaa.jpg"/>
+              <Image iconType="3" name="/Main/resources/images/aaa.jpg"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Trang ch&#x1ee7;"/>
           </Properties>
@@ -118,7 +118,7 @@
               <Font name="Segoe UI" size="18" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/Interface/ddd.png"/>
+              <Image iconType="3" name="/Main/resources/images/ddd.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Qu&#x1ea3;n l&#xfd; kh&#xe1;ch h&#xe0;ng"/>
           </Properties>
@@ -132,7 +132,7 @@
               <Font name="Segoe UI" size="18" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/Admin/sach (1).png"/>
+              <Image iconType="3" name="/Main/resources/images/sach (1).png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Qu&#x1ea3;n l&#xfd; lo&#x1ea1;i s&#xe1;ch"/>
           </Properties>
@@ -146,7 +146,7 @@
               <Font name="Segoe UI" size="18" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/Admin/chuong.png"/>
+              <Image iconType="3" name="/Main/resources/images/chuong.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Th&#xf4;ng b&#xe1;o"/>
           </Properties>
@@ -160,7 +160,7 @@
               <Font name="Segoe UI" size="18" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/Interface/bbb.png"/>
+              <Image iconType="3" name="/Main/resources/images/bbb.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Qu&#x1ea3;n l&#xfd; s&#xe1;ch"/>
           </Properties>
@@ -401,7 +401,7 @@
     <Component class="javax.swing.JLabel" name="jLabel1">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/Main/Thiet-ke-khong-ten.jpg"/>
+          <Image iconType="3" name="/Main/resources/images/Thiet-ke-khong-ten.jpg"/>
         </Property>
       </Properties>
       <Constraints>
